@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36045309532",
+    "project_id": "fir-app-f43fe",
+    "storage_bucket": "fir-app-f43fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36045309532:android:c01fd70095df1972bb4899",
+        "android_client_info": {
+          "package_name": "com.elvis.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36045309532-es7t6tctr3pen25kc5d1v861u5l5ig1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrj19QL4Q9_CXpNwcxzuegOXHIc6pBmnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36045309532-es7t6tctr3pen25kc5d1v861u5l5ig1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
